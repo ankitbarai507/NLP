@@ -5,12 +5,12 @@ stop = stopwords.words('english')
 
 string = """
 Hey,
-This week has been crazy. Attached is my report on IBM. Can you give it a quick read and provide some feedback.
-Also, make sure you reach out to Claire (claire@xyz.com).
+This week has been crazy. Attached is my report on NLP. Can you give it a quick read and provide some feedback.
+Also, make sure you reach out to Ankit (ankitbarai507@gmail.com).
 You're the best.
-Cheers,
-George W.
-212-555-1234
+Ankit Barai,
+Nagpur.
+9511837412
 """
 
 def extract_phone_numbers(string):
